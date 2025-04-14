@@ -31,13 +31,13 @@ FluentBridge is a powerful, real-time translation tool that brings down language
 ## Screenshots
 
 <p align="center">
-  <img src="images/main_interface.png" alt="Main Interface" width="400"/>
+  <img src="main.png" alt="Main Interface" width="400"/>
   <br>
   <em>Main FluentBridge interface</em>
 </p>
 
 <p align="center">
-  <img src="images/translation_overlay.png" alt="Translation Overlay" width="400"/>
+  <img src="transanywhere.png" alt="Translation Overlay" width="400"/>
   <br>
   <em>Translation overlay that appears when you select text and double-press Ctrl</em>
 </p>
