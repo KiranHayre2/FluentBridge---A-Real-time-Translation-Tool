@@ -17,7 +17,7 @@ FluentBridge is a powerful, real-time translation tool that brings down language
 
 ## Download and Installation
 
-1. Download the latest release from the [Releases](https://github.com/YOURUSERNAME/FluentBridge/releases) page
+1. Download the latest release from the [Releases](https://github.com/KiranHayre2/FluentBridge---A-Real-time-Translation-Tool/releases/download/v1.0/FluentBridge.v1.0.exe) page
 2. Extract the ZIP file (if applicable)
 3. Run FluentBridge.exe
 
