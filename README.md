@@ -1,7 +1,7 @@
 # FluentBridge
 
 <p align="center">
-  <img src="images/fluentbridge_logo.png" alt="FluentBridge Logo" width="200"/>
+  <img src="https://i.pinimg.com/originals/9c/50/65/9c5065748255c36548441219687d6f89.png" alt="FluentBridge Logo" width="200"/>
 </p>
 
 FluentBridge is a powerful, real-time translation tool that brings down language barriers in your everyday computer use. It provides seamless translation capabilities with a modern, unobtrusive interface.
